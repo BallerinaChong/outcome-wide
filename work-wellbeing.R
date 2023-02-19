@@ -69,7 +69,7 @@ ylim = c(-.3, .3)  # SET AS YOU LIKE -- here, how much movement across a standar
 ylim_contrast = c(0, 2)  # SET AS YOU LIKE (FOR CONTRASTS )
 
 # mice imputed data
-## THIS IS KEY, NAME THE DATA I GAVE YOU "DF"
+## THIS IS KEY, NAME THE DATA "DF"
 
 # n imputations
 m = 10
